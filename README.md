@@ -64,8 +64,3 @@ void loop() {
   digitalWrite(motorPin2, LOW);
   delay(5000); 
 }
-
-
-
-
-
